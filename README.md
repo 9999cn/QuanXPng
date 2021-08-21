@@ -1,12 +1,13 @@
-
-# 使用说明
-## 方式对比
+# QuanXPng
+欢迎使用QuanXPng图标，立这个仓库的原因是补充大佬们所遗漏和没兴趣做的图标。都是自己PS做做玩的。
+## 使用说明
+### 方式对比
 | 方式 | 添加图标 | 更新图标 | 图标维护 | 获取及时性 | 操作便利性 | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 远程图标 | 编辑配置 | 清理缓存 | 图标作者 | ✅ | ✅ |
 | 本地图标 | 编辑配置+文件操作 | 文件操作 | 用户本人 | ❌ | ❌|
 
-### 方式一：远程图标<br>
+#### 方式一：远程图标<br>
 *跨设备同步策略组图标，及时获取图标更新*<br>
 *该操作以 Quantumult X v1.0.8-build249 为例*<br>
 1. 在 [常规图标预览](https://github.com/Koolson/Qure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)、[归档图标预览](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_Archived.png) 或 [IconSet 页面](https://github.com/Koolson/Qure/tree/master/IconSet) 中找到需要的策略组图标并记下**图标名称**；<br>
