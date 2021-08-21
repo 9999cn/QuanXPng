@@ -23,3 +23,12 @@
 3. 重启 Quantumult X 即可见到效果。<br>
 
 ><font color=red>更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“**我的 iPhone 或 iCloud Drive-Quantumult X-Images**”，删除Images文件夹内所有缓存文件)，并重启 Quantumult X，远程图标会重新下载并生效。</font>
+
+#### 方式二：本地图标<br>
+*不支持多设备同步图标；图标更新时，需要手动下载图标并进行本地替换操作*<br>
+*该操作以 Quantumult X v1.0.0-build91 为例*<br>
+
+1. 打开"文件"应用后，依次进入“我的 iPhone 或 iCloud Drive→Quantumult X→Images”；<br>
+2. 将**个人设定**的策略组名称 **同名的.png** 图标文件(.png图标文件可在 [IconSet 页面](https://github.com/Koolson/Qure/tree/master/IconSet)根据个人需求自行下载)粘贴到 Images 文件夹内，重启 Quantumult X 即可见到效果。<br>
+ [查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Local_Icon.png)<br>
+![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Local_Icon.png)
