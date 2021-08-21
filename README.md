@@ -1,5 +1,5 @@
 # QuanXPng
-欢迎使用QuanXPng图标，立这个仓库的原因是补充大佬们所遗漏和没兴趣做的图标。都是自己PS做做玩的。
+欢迎使用QuanXPng图标 立这个仓库的原因是补充大佬们所遗漏和没兴趣做的图标 都是自己PS做做玩的
 ## 使用说明
 ### 方式对比
 | 方式 | 添加图标 | 更新图标 | 图标维护 | 获取及时性 | 操作便利性 | 
@@ -32,3 +32,6 @@
 2. 将**个人设定**的策略组名称 **同名的.png** 图标文件(.png图标文件可在 [IconSet 页面](https://github.com/Koolson/Qure/tree/master/IconSet)根据个人需求自行下载)粘贴到 Images 文件夹内，重启 Quantumult X 即可见到效果。<br>
  [查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Local_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Local_Icon.png)
+
+
+##### 鸣谢Koolson/Qure的教材模板
