@@ -10,7 +10,7 @@
 #### 方式一：远程图标<br>
 *跨设备同步策略组图标，及时获取图标更新*<br>
 *该操作以 Quantumult X v1.0.8-build249 为例*<br>
-1. 在 [常规图标预览](https://github.com/Koolson/Qure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)、[归档图标预览](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_Archived.png) 或 [IconSet 页面](https://github.com/Koolson/Qure/tree/master/IconSet) 中找到需要的策略组图标并记下**图标名称**；<br>
+1. 在 [常规图标预览]、[归档图标预览] 或 [IconSet 页面] 中找到需要的策略组图标并记下**图标名称**；<br>
 2. 在 Quantumult X 的“配置文件-编辑”中找到[policy]下的策略组字段，并在该策略组的最后一个节点后方加上：<br>
 `img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名称.png`<br>
 例如：<br>
@@ -24,7 +24,7 @@
 
 ><font color=red>更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“**我的 iPhone 或 iCloud Drive-Quantumult X-Images**”，删除Images文件夹内所有缓存文件)，并重启 Quantumult X，远程图标会重新下载并生效。</font>
 
-#### 方式二：本地图标<br>
+###### 方式二：本地图标<br>
 *不支持多设备同步图标；图标更新时，需要手动下载图标并进行本地替换操作*<br>
 *该操作以 Quantumult X v1.0.0-build91 为例*<br>
 
@@ -34,4 +34,4 @@
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Local_Icon.png)
 
 
-##### 鸣谢Koolson/Qure的教材模板
+###### 鸣谢：Koolson/Qure的使用教程模板
